@@ -31,5 +31,5 @@
  * SOFTWARE.
  */
 namespace Sammy\Packs\Gogue\Plugin\Capsule {
-  $module->exports = requires ('./src');<
+  $module->exports = requires ('./src');
 }
