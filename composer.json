@@ -4,6 +4,7 @@
 	"description": "markdown Parser for capsule gogue plugin",
   "type": "library",
 	"license": "MIT",
+  "minimum-stability": "dev",
 	"keywords": [
 		"gogue",
 		"plugin",
@@ -49,11 +50,5 @@
   },
 	"require": {
 		"php": ">=5.6.20"
-	},
-  "suggest": {
-    "php_modules/core": "",
-    "php_modules/gogue-component-base": "",
-    "php_modules/gogue-component-config": "",
-    "php_modules/gogue-component-transpiler": ""
-  }
+	}
 }
