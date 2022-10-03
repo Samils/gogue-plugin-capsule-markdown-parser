@@ -1,7 +1,6 @@
 # Gogue Plugin Capsule Markdown Parser
 
-A markdown parser for capsule
-
+markdown Parser for capsule gogue plugin
 
 ### Licence
 
